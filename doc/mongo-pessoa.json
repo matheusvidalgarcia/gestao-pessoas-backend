@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$binary": {
+      "base64": "LRbDksKbV8OaZ0vCnCTDs33ClMK3XcOc",
+      "subType": "00"
+    }
+  },
+  "Nome": "Lele VET",
+  "Cnpj": "03.512.397/0001-99",
+  "CrmvReponsavel": 12345,
+  "Email": "leticia_lauriano@hotmail.com",
+  "Senha": "123456",
+  "Telefone": "11932297996",
+  "Enderecos": [
+    {
+      "_id": {
+        "$binary": {
+          "base64": "EMKPVyjCt8O9wrhJwrDDqF0zeX7Dq2k=",
+          "subType": "00"
+        }
+      },
+      "Nome": "Casa",
+      "Rua": "Rua Espirito Santo",
+      "Numero": "352",
+      "Complemento": "56B",
+      "Cep": "09530700",
+      "Cidade": "Sao Caetano do Sul",
+      "Estado": "SP",
+      "Pais": "Brasil",
+      "Latitude": "-23,61912",
+      "Longitude": "-46,57335"
+    },
+    {
+      "_id": {
+        "$binary": {
+          "base64": "wprCpsK8LkXDsVZPwqZoBA8YW8OHXA==",
+          "subType": "00"
+        }
+      },
+      "Nome": "Casa",
+      "Rua": "Rua Espirito Santo",
+      "Numero": "352",
+      "Complemento": "56B",
+      "Cep": "09530-700",
+      "Cidade": "Sao Caetano do Sul",
+      "Estado": "SP",
+      "Pais": "Brasil",
+      "Latitude": "-23,61912",
+      "Longitude": "-46,57335"
+    },
+    {
+      "_id": {
+        "$binary": {
+          "base64": "X27DpXsUfcKTSsKawrrDvRvDsUF4woM=",
+          "subType": "00"
+        }
+      },
+      "Nome": "Casa",
+      "Rua": "Rua Espirito Santo",
+      "Numero": "352",
+      "Complemento": "56B",
+      "Cep": "09530-700",
+      "Cidade": "Sao Caetano do Sul",
+      "Estado": "SP",
+      "Pais": "Brasil",
+      "Latitude": "-23,61912",
+      "Longitude": "-46,57335"
+    },
+    {
+      "_id": {
+        "$binary": {
+          "base64": "w4bCrMKawobDpwAfTcKXw4omwp3CrH3Cnno=",
+          "subType": "00"
+        }
+      },
+      "Nome": "Casa",
+      "Rua": "Rua Espirito Santo",
+      "Numero": "352",
+      "Complemento": "56B",
+      "Cep": "09530-700",
+      "Cidade": "Sao Caetano do Sul",
+      "Estado": "SP",
+      "Pais": "Brasil",
+      "Latitude": "-23,61912",
+      "Longitude": "-46,57335"
+    },
+    {
+      "_id": {
+        "$binary": {
+          "base64": "Kzc1SU/DkkREwrkzMcO+SsKxInI=",
+          "subType": "00"
+        }
+      },
+      "Nome": "Casa",
+      "Rua": "Rua Espirito Santo",
+      "Numero": "352",
+      "Complemento": "56B",
+      "Cep": "09530-700",
+      "Cidade": "Sao Caetano do Sul",
+      "Estado": "SP",
+      "Pais": "Brasil",
+      "Latitude": "-23,61912",
+      "Longitude": "-46,57335"
+    },
+    {
+      "_id": {
+        "$binary": {
+          "base64": "wp0rwrwndMOCwpdPwqXCgmTCnBV6w49A",
+          "subType": "00"
+        }
+      },
+      "Nome": "Casa",
+      "Rua": "Rua Espirito Santo",
+      "Numero": "352",
+      "Complemento": "56B",
+      "Cep": "09530-700",
+      "Cidade": "Sao Caetano do Sul",
+      "Estado": "SP",
+      "Pais": "Brasil",
+      "Latitude": "-23,61912",
+      "Longitude": "-46,57335"
+    },
+    {
+      "_id": {
+        "$binary": {
+          "base64": "L8OrAMKxSgHCtEbCusKFw7fCqVLDisKDw74=",
+          "subType": "00"
+        }
+      },
+      "Nome": "Casa",
+      "Rua": "Rua Espirito Santo",
+      "Numero": "352",
+      "Complemento": "56B",
+      "Cep": "09530-700",
+      "Cidade": "Sao Caetano do Sul",
+      "Estado": "SP",
+      "Pais": "Brasil",
+      "Latitude": "-23,61912",
+      "Longitude": "-46,57335"
+    }
+  ]
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wrVJHkDDkw3DlUXCkXQWwop3w78ow4k=",
+      "subType": "00"
+    }
+  },
+  "Nome": "Veterinaria Anchieta",
+  "Cnpj": "77.321.948/0001-73",
+  "CrmvReponsavel": 12345,
+  "Email": "matheusgarcia@outlook.com",
+  "Senha": "123456",
+  "Telefone": "11932297996"
+}]

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\pessoa.Application\pessoa.Application.csproj" />
+    <ProjectReference Include="..\pessoa.Infra.Data.Http\pessoa.Infra.Data.Http.csproj" />
+    <ProjectReference Include="..\pessoa.Infra.Data\pessoa.Infra.Data.csproj" />
+    <ProjectReference Include="..\core\core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\pessoa.Domain\pessoa.Domain.csproj" />
+    <ProjectReference Include="..\pessoa.Infra.Data\pessoa.Infra.Data.csproj" />
+    <ProjectReference Include="..\core\core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Proprietario\" />
+  </ItemGroup>
+
+</Project>
